@@ -1,0 +1,17 @@
+INSERT INTO `t_user_role` VALUES (1, 1);
+INSERT INTO `t_user_role` VALUES (2, 2);
+INSERT INTO `t_user_role` VALUES (3, 4);
+INSERT INTO `t_user_role` VALUES (19, 1);
+INSERT INTO `t_user_role` VALUES (19, 2);
+INSERT INTO `t_user_role` VALUES (19, 3);
+INSERT INTO `t_user_role` VALUES (19, 4);
+INSERT INTO `t_user_role` VALUES (20, 1);
+INSERT INTO `t_user_role` VALUES (20, 2);
+INSERT INTO `t_user_role` VALUES (20, 3);
+INSERT INTO `t_user_role` VALUES (20, 4);
+INSERT INTO `t_user_role` VALUES (22, 1);
+INSERT INTO `t_user_role` VALUES (25, 4);
+INSERT INTO `t_user_role` VALUES (26, 4);
+INSERT INTO `t_user_role` VALUES (27, 5);
+INSERT INTO `t_user_role` VALUES (28, 6);
+INSERT INTO `t_user_role` VALUES (29, 7);
